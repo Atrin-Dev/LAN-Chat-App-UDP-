@@ -7,7 +7,7 @@ A simple communication-aware LAN chat application with a GUI built using **Tkint
 
 Here’s what the app looks like when running:
 
-![Chat UI Screenshot]<img src="images/chat_ui.png" alt="Chat UI Screenshot" width="400"/>
+![Chat UI Screenshot]<img src="images/LAN_Chat_App(UDP).png" alt="Chat UI Screenshot" width="400"/>
 
 ---
 
