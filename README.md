@@ -3,6 +3,14 @@ A simple communication-aware LAN chat application with a GUI built using **Tkint
 
 ---
 
+## 🖼️ Preview
+
+Here’s what the app looks like when running:
+
+![Chat UI Screenshot](images/LAN_Chat_App(UDP).png)
+
+---
+
 ## 📦 Features
 
 - 💬 Real-time messaging over local network
